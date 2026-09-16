@@ -4,6 +4,19 @@ A project that involved building a small ESP32-based device using a starter kit 
 ## Demo Video link
 Youtube link: ...
 
+## What is the interactive system
+The interactive system uses 3 capacitive touch sensors connected to the ESP32 to detect indicual toches and left or right swiping guestures, with a buzzer attached to provide audio feedback.
+
+## How it runs
+To run the system:
+1. Connect ESP32 to computer
+2. upload the code from "Lab_1.ino"
+3. Follow the serial monitor prompts to calibrate each touch sensor (32,27,13)
+4. Touch and swipe to interact with the device.
+    - Audio detection when:
+        1. completing a swip guesture
+        2. when touching only pin 27 (middle) 
+
 ## Extra things used in order to complete this lab
 
 ### Youtube video use
