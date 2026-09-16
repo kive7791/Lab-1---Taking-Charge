@@ -2,7 +2,9 @@
 A project that involved building a small ESP32-based device using a starter kit to detect touch inputs, recognize simple swiping gestures, and provide audio feedback through a buzzer.
 
 ## Demo Video link
-Youtube link: ...
+Youtube link: [Lab 1 video](https://youtu.be/LmTpR_5ryJ4)
+
+If the link is not working, please go to the folder titled "Video" and watch it there.
 
 ## What is the interactive system
 The interactive system uses 3 capacitive touch sensors connected to the ESP32 to detect indicual toches and left or right swiping guestures, with a buzzer attached to provide audio feedback.
